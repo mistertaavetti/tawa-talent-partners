@@ -37,4 +37,4 @@ A deliberately lean build: a static SPA keeps hosting trivial and costs near zer
 
 ---
 
-*Case study by David Aloba — [davidaloba.com](https://davidaloba.com) · [LinkedIn](https://linkedin.com/in/davidaloba)*
+*Case study by David Aloba. [mistertaavetti.davidaloba.com](https://mistertaavetti.davidaloba.com) · [LinkedIn](https://linkedin.com/in/mistertaavetti)*
